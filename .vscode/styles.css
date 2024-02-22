@@ -1,0 +1,50 @@
+.wrapper {
+    margin: 0 auto;
+    width: 500px;
+    border: 1px black solid;
+}
+
+.upDiv {
+    display: flex;
+}
+
+.logo {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.title {
+    width: 790px;
+}
+
+.leftButton {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.myDiv {
+    overflow:hidden;
+}
+
+img {
+    width:499px;
+}
+
+.liked {
+    display: flex;
+    padding: 10px;
+}
+
+.others {
+    width: 790px;
+}
+
+.comments {
+    padding: 10px;
+}
